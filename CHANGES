@@ -1,0 +1,5 @@
+- Changed Title Screen to have a BG
+- Warning Screen if Game is first Opened
+- Added a Check State to check if you opened the game first or if you already opened it
+- Rounded UI on settings menu
+- Main Menu Options now changed to be on the left side
